@@ -1,10 +1,21 @@
-🏦 Bank Management System — Java
+# 🏦 Bank Management System — Java
 
-A console-based Bank Management System built with Java, demonstrating core Object-Oriented Programming (OOP) concepts through practical banking operations.
+### Console-Based Banking Application
+
+**Java • OOP • Console Application • Educational Project**
+
+A console-based **Bank Management System** built with **Java**, demonstrating core **Object-Oriented Programming (OOP)** concepts through practical banking operations.
 
 It provides a simple banking experience through the command line, allowing users to create accounts, manage PINs, deposit and withdraw money, transfer funds, check balances, and generate account statements.
 
-Features • OOP Concepts • Architecture • Quick Start • Usage • Tech Stack • Project Structure • Validation • Roadmap
+[![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-007396?style=flat-square\&logo=openjdk\&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+[![Console](https://img.shields.io/badge/Interface-Console-black?style=flat-square\&logo=windows-terminal\&logoColor=white)](https://github.com/ranjeet-dev123/Bank-Management-System-Java)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ranjeet-dev123/Bank-Management-System-Java)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
+**Features • OOP Concepts • Architecture • Quick Start • Usage • Tech Stack • Project Structure • Validation • Roadmap**
+
 
 ---
 
