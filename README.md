@@ -1,10 +1,10 @@
-# 🏦 Bank Management System — Java
+🏦 Bank Management System — Java
 
-A **console-based Bank Management System** developed using **Java and Object-Oriented Programming (OOP)** concepts.
+A console-based Bank Management System built with Java, demonstrating core Object-Oriented Programming (OOP) concepts through practical banking operations.
 
-This project simulates basic banking operations such as **account creation, secure PIN-based login, deposits, withdrawals, money transfers, PIN changes, account statements, and account management**.
+It provides a simple banking experience through the command line, allowing users to create accounts, manage PINs, deposit and withdraw money, transfer funds, check balances, and generate account statements.
 
-It is designed as a beginner-to-intermediate Java project to demonstrate practical implementation of **Encapsulation, Constructors, Classes & Objects, Methods, Arrays, Validation, Exception Handling, and OOP principles**.
+Features • OOP Concepts • Architecture • Quick Start • Usage • Tech Stack • Project Structure • Validation • Roadmap
 
 ---
 
